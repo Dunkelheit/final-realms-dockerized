@@ -6,7 +6,7 @@ repository that contains a barebones version of the Final Realms library.
 ## Instructions
 
 ```
-> docker-compose up
+> docker-compose up -d
 > telnet localhost 4001
 ```
 
